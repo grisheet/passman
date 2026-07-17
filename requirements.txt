@@ -1,0 +1,3 @@
+cryptography>=42.0
+argon2-cffi>=23.1   # optional but recommended (Argon2id)
+pyperclip>=1.8      # optional (clipboard copy with auto-clear)
